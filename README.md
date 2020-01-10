@@ -2,6 +2,8 @@
 This simple AMSI provider will attempt to log all strings passed into it to 'scan'.
 This can be used to see what systems do and don't pass into AMSI.
 
+Basic bones of the project cloned from Microsoft AMSI Provider tutorial, I added thed ETW parts
+
 
 ## Requirements
 Project requires at least `Windows 8.1`, testing only done on `Windows 10`
